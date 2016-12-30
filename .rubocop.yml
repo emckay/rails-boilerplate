@@ -1,0 +1,5 @@
+Style/NegatedIf:
+    Enabled: false
+
+Style/Documentation:
+    Enabled: false
