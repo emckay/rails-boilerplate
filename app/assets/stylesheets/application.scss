@@ -15,9 +15,9 @@
 
 @import '_variables';
 @import 'bootstrap/mixins';
-@import '_bootswatch';
 @import 'bootstrap-sprockets';
 @import 'bootstrap';
+@import '_bootswatch';
 
 .form-sm {
   @extend .col-md-3;
